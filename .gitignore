@@ -1,0 +1,15 @@
+# Java build output
+*.class
+build/
+out/
+
+# Local application data
+*.dat
+data/
+sample-records.txt
+
+# IDE metadata
+.classpath
+.project
+.settings/
+.vscode/
